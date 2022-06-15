@@ -9,6 +9,5 @@ My skills are but not limited to
 - Frontend coding with React, Vue and SASS
 - Data Analysis using Python 
 - Software Engineering
-- Blockchain development(still in progress)
 
 This is all(for now)see you around!
